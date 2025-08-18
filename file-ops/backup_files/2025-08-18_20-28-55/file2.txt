@@ -1,0 +1,1 @@
+Include date, source, destination, status, files copied, and free disk space file3.txt
